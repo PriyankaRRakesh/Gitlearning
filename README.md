@@ -1,2 +1,3 @@
 # Gitlearning
-Git Taining
+Git Training!
+Changes done to readme file.......
